@@ -1,3 +1,3 @@
 # Getting-Started
 Exercicio do curso 2 do Coursera
-Primeira vez tendo contado com a plataforma GitHub
+<br>Primeira vez tendo contado com a plataforma GitHub
